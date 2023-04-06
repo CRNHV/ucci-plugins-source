@@ -1,146 +1,27 @@
-[
-  {
-    "projectUrl": "https://discord.gg/WTvTbSPknJ",
-    "provider": "unethicalite",
-    "name": "Plugin template",
-    "description": "Kills Zulrah for you",
-    "id": "plugintemplate-plugin",
-    "releases": [
-      {
-        "date": "2023-03-29",
-        "sha512sum": "561FD21B61E26506FF4BF3AA8B8870E7B502628F7FBB1B64EA965344E35B557A0B1F530002073BBA28E1478732B4EA6E77AAAE3E5E64177FC61FCB9E6A4F58A1",
-        "version": "0.0.2",
-        "url": "https://raw.githubusercontent.com/jbx5/devious-plugins-release/master/quack-alcher-0.0.2.jar",
-        "requires": "^1.0.0"
-      }
-    ]
-  },
-  {
-    "projectUrl": "https://discord.gg/WTvTbSPknJ",
-    "provider": "unethicalite",
-    "name": "Unethical blackjack",
-    "description": "Kills Zulrah for you",
-    "id": "unethicalblackjack-plugin",
-    "releases": [
-      {
-        "date": "2023-03-29",
-        "sha512sum": "4F410243C3BB794AA589A6EB412E836E38C6EF329E4A77084AE11444D236572EDE2E5680B177F171885F346753E38CB886B8C7E0E13525A83D15624E666C32D8",
-        "version": "0.0.14",
-        "url": "https://raw.githubusercontent.com/jbx5/devious-plugins-release/master/quack-blackjack-0.0.14.jar",
-        "requires": "^1.0.0"
-      }
-    ]
-  },
-  {
-    "projectUrl": "https://discord.gg/WTvTbSPknJ",
-    "provider": "unethicalite",
-    "name": "Clockwork maker",
-    "description": "Makes clockworks for you",
-    "id": "clockworkmaker-plugin",
-    "releases": [
-      {
-        "date": "2023-03-29",
-        "sha512sum": "B37C7594F8DC89AB72C5269D3FB8C20261C42AC4B94FC543F9FA4C7F7BC6BF2C9ABCC0584F1DEF0F10326BB09FB4A1F48DF785C9A670B79FB9BD766CA2F0F827",
-        "version": "0.0.2",
-        "url": "https://raw.githubusercontent.com/jbx5/devious-plugins-release/master/quack-clockwork-0.0.2.jar",
-        "requires": "^1.0.0"
-      }
-    ]
-  },
-  {
-    "projectUrl": "https://discord.gg/WTvTbSPknJ",
-    "provider": "unethicalite",
-    "name": "Quack crabs",
-    "description": "Kills Zulrah for you",
-    "id": "quackcrabs-plugin",
-    "releases": [
-      {
-        "date": "2023-03-29",
-        "sha512sum": "D3D9D0D78A9372AA6218A3A3836493E57409A7F6359E31AE7F4B30B7200A42F022D516B5367A6C2CF433F72F7C6DDD9451BE5EFF27372BFAABF1D4D45600BE46",
-        "version": "0.0.2",
-        "url": "https://raw.githubusercontent.com/jbx5/devious-plugins-release/master/quack-crabs-0.0.2.jar",
-        "requires": "^1.0.0"
-      }
-    ]
-  },
-  {
-    "projectUrl": "https://discord.gg/WTvTbSPknJ",
-    "provider": "unethicalite",
-    "name": "Quack favour",
-    "description": "Kourend favour",
-    "id": "quackfavour-plugin",
-    "releases": [
-      {
-        "date": "2023-03-29",
-        "sha512sum": "40F73B569BA5F43D1E728ABD84FA9371209D970E90352B5B1B8F7AE967F4DD5D5746EE0A9E7DA10887C0BD9A95A31C5C917CC99ADF90E2E7EBF887EEA7A265E6",
-        "version": "0.0.2",
-        "url": "https://raw.githubusercontent.com/jbx5/devious-plugins-release/master/quack-favour-0.0.2.jar",
-        "requires": "^1.0.0"
-      }
-    ]
-  },
-  {
-    "projectUrl": "https://discord.gg/WTvTbSPknJ",
-    "provider": "unethicalite",
-    "name": "Quack trekking",
-    "description": "Does temple trekking",
-    "id": "quacktrekking-plugin",
-    "releases": [
-      {
-        "date": "2023-03-29",
-        "sha512sum": "5DB720720A434092332A90F9204E8A9DA41B8126250E02729BDDED3E6E20754DE77B26E1C6FCDA5FD08788B2D091D74C59F2FD014FF0FCE6841E6972B95FA4FF",
-        "version": "0.0.2",
-        "url": "https://raw.githubusercontent.com/jbx5/devious-plugins-release/master/quack-trekking-0.0.2.jar",
-        "requires": "^1.0.0"
-      }
-    ]
-  },
-  {
-    "projectUrl": "https://discord.gg/WTvTbSPknJ",
-    "provider": "unethicalite",
-    "name": "Quack vyres",
-    "description": "Thieves vyres",
-    "id": "quackvyres-plugin",
-    "releases": [
-      {
-        "date": "2023-03-29",
-        "sha512sum": "E43252A7B3F9F8F6C4010F250A34C7DB19DBD988128585B2BA9742AC5528533907629E046631DF0C7DB93935687DCD4696352380988FE5E87171CBDECDD25EA2",
-        "version": "1.0.0",
-        "url": "https://raw.githubusercontent.com/jbx5/devious-plugins-release/master/quack-vyre-1.0.0.jar",
-        "requires": "^1.0.0"
-      }
-    ]
-  },
-  {
-    "projectUrl": "https://discord.gg/WTvTbSPknJ",
-    "provider": "unethicalite",
-    "name": "ZeahRc",
-    "description": "Does zeah rc",
-    "id": "zeahrc-plugin",
-    "releases": [
-      {
-        "date": "2023-03-29",
-        "sha512sum": "73B3386B624BF460DEDBD8870381AA728FED1A4703C4DAA99646EE82A6B1C91B453DEBF8917EDA314F901C448293885AA6845FFEEADE15BE3B38403E21ED2E49",
-        "version": "0.0.2",
-        "url": "https://raw.githubusercontent.com/jbx5/devious-plugins-release/master/quack-zeahrc-0.0.2.jar",
-        "requires": "^1.0.0"
-      }
-    ]
-  },
-  {
-    "projectUrl": "https://discord.gg/WTvTbSPknJ",
-    "provider": "unethicalite",
-    "name": "Unethical Zulrah",
-    "description": "Kills Zulrah for you",
-    "id": "unethicalzulrah-plugin",
-    "releases": [
-      {
-        "date": "2023-03-29",
-        "sha512sum": "EB0B6F2FB422F09EF84731CCF0A2B9B580F191DC7BF101C03B1149F4FFAE496E2ECB2F782451280958796AAA7DAB80F08F66C75E45488DC7ED8224FDAAC4245E",
-        "version": "0.0.26",
-        "url": "https://raw.githubusercontent.com/jbx5/devious-plugins-release/master/unethical-zulrah-0.0.26.jar",
-        "requires": "^1.0.0"
-      }
-    ]
-  }
-]
+[{
+  "projectUrl": "https://discord.gg/WTvTbSPknJ",
+  "provider": "unethicalite",
+  "name": "Ucci ZeahRc",
+  "description": "Crafts blood runes",
+  "id": "uccizeahrc-plugin",
+  "releases": [{
+    "date": "2023-04-06",
+    "sha512sum": "07FBF9F9EEE4316E791A99D5712B922E3EE79E845F94FB59171BBBEEABD66FB4DD45E37AB1B8E5FEF992D07E9DCF2A230358BEB9604313DC7DDAD8B460FB559B",
+    "version": "0.0.2",
+    "url": "https://raw.githubusercontent.com/CRNHV/ucci-plugins-release/main/ucci-zeahrc-0.0.2.jar",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/WTvTbSPknJ",
+  "provider": "unethicalite",
+  "name": "Unethical Zulrah",
+  "description": "Kills Zulrah for you",
+  "id": "unethicalzulrah-plugin",
+  "releases": [{
+    "date": "2023-04-06",
+    "sha512sum": "B4BB8A68546ACFA3822BB4AE5D436C3E2AB627E90B2C9AC80AB7080FB90E9AD0C8209244FC44DAA245839F638D30BE0D681E45F092171F8189E60A5ECDEF02F8",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/CRNHV/ucci-plugins-release/main/unethical-zulrah-1.0.0.jar",
+    "requires": "^1.0.0"
+  }]
+}]
