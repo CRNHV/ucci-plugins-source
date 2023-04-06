@@ -1,5 +1,7 @@
 # Ucci external plugins
 
+https://github.com/CRNHV/ucci-plugins-release
+
 If you find any bugs and want to submit a PR, i'd be happy to review and merge it.
 
 ## Unethical Zulrah
