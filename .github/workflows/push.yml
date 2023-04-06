@@ -1,0 +1,35 @@
+on:
+  push:
+    branches:
+      - master
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    name: Deploy App
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Prepare bootstrap files
+        run: |
+          touch plugins.json
+          mkdir release
+
+      - name: Make gradlew executable
+        run: chmod +x ./gradlew
+
+      - name: Gradle Build
+        run: GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }} ./gradlew clean build bootstrapPlugins
+
+      - name: Push to release branch
+        run: |
+          git clone https://github.com/unethicalite/unethicalite-plugins-release.git deploy
+          cp -r ./release/. ./deploy
+          cp plugins.json deploy
+          cd deploy
+          
+          git config --global user.email "burakinan1@hotmail.com"
+          git config --global user.name "Github Actions"
+          git add -A
+          git commit -m 'Plugins auto release'
+          git push https://buracc:${{ secrets.REPO_PAT }}@github.com/unethicalite/unethicalite-plugins-release.git master
