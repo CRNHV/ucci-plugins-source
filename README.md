@@ -22,6 +22,7 @@ If ur running the plugin without any edits to the code make sure you have at lea
 - Magic potion
 - 2x Ring of recoil
 - Karambwan
+- Ring of dueling
 
 Start the plugin from ferox enclave, have ur range gear in the inventory. 
 
