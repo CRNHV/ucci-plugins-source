@@ -29,3 +29,5 @@ If ur running the plugin without any edits to the code make sure you have at lea
 
 This plugin has been tested for a grand total of two entire days before getting me banned. 
 Can't say if it's stable or not
+
+Discord: Ucci#3498
