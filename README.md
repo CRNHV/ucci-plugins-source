@@ -23,6 +23,8 @@ If ur running the plugin without any edits to the code make sure you have at lea
 - 2x Ring of recoil
 - Karambwan
 
+Start the plugin from ferox enclave, have ur range gear in the inventory. 
+
 ## Ucci-ZeahRc
 
 [Directory](/ucci-zeahrc/)
