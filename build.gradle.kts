@@ -13,9 +13,9 @@ plugins {
     kotlin("jvm") version "1.6.21"
 }
 
-project.extra["GithubUrl"] = "https://github.com/jbx5/devious-plugins-release"
-project.extra["GithubUserName"] = "jbx5"
-project.extra["GithubRepoName"] = "devious-plugins-release"
+project.extra["GithubUrl"] = "https://github.com/CRNHV/ucci-plugins-release"
+project.extra["GithubUserName"] = "CRNHV"
+project.extra["GithubRepoName"] = "ucci-plugins-release"
 
 apply<BootstrapPlugin>()
 

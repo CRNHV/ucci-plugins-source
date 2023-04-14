@@ -60,7 +60,7 @@ open class BootstrapTask : DefaultTask() {
                                         project.rootProject.extra.get(
                                                 "GithubRepoName"
                                         )
-                                    }/master/${it.project.name}-${it.project.version}.jar",
+                                    }/main/${it.project.name}-${it.project.version}.jar",
                                     "sha512sum" to sha512
                             )
                     )

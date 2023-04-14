@@ -27,6 +27,7 @@ rootProject.name = "ucci-plugins-public"
 
 include("unethical-zulrah")
 include("ucci-zeahrc")
+include("ucci-clockworks")
 
 for (project in rootProject.children) {
     project.apply {
