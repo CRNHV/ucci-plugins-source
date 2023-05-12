@@ -43,6 +43,8 @@ public class UcciTemplatePlugin extends TaskPlugin
         isRunning = true;
 
         session = new BotSession();
+        session.startTimer();
+
         overlayManager.add(sessionOverlay);
 
         for(TemplateTask task : tasks)
