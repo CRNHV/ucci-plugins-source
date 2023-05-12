@@ -42,3 +42,23 @@ The clockwork making part is stable and it can reach to ~1100 clockworks per hou
 
 Restocking isn't as stable, there's a few issues with the buying process, 
 with some fixes it should be able to restock steel bars and run for as long as you have enough law runes.
+
+## Ucci-flaxspinner
+
+[Directory](/ucci-flaxspinner/)
+
+Spins flax in lumbridge
+
+## Ucci-banwatch
+
+[Directory](/ucci-banwatch/)
+
+Sends an discord webhook to a channel if ur accounts gets banned
+Only works if you have unethical autologin or w/e installed as it needs to see the banned screen.
+Will quit the client after the ban.
+
+## Ucci-template
+
+[Directory](/ucci-template/)
+
+A plugin template
