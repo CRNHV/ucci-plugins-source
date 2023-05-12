@@ -1,5 +1,7 @@
 # Ucci external plugins
 
+I do NOT offer support for these plugins. They are for learning purposes only. If the bot gets stuck good luck on fixing it
+
 If you find any bugs and want to submit a PR, i'd be happy to review and merge it.
 
 ## Unethical Zulrah
